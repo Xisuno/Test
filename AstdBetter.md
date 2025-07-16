@@ -436,3 +436,4 @@ task.wait(waitt)
 while task.wait() do 
 game:GetService("TeleportService"):Teleport(17687504411)
 end
+ 
