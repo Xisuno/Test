@@ -10,7 +10,7 @@ local queueteleport = (syn and syn.queue_on_teleport) or queue_on_teleport or (f
 game.Players.LocalPlayer.OnTeleport:Connect(function(State)
     if (not TeleportCheck) and queueteleport then
         TeleportCheck = true
-        queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Xisuno/Test/refs/heads/main/AstdBetter2.md)()")
+        queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Xisuno/Test/refs/heads/main/AstdBetter2.md'))()")
     end
 end)
 
