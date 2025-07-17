@@ -71,7 +71,7 @@ function setup(world)
                 end
 
 spawn("Teiuchi", CFrame.new(119.4036636352539, 55.58282470703125, 55.2382926940918, 1, 0, 0, 0, 1, 0, 0, 0, 1),farmup)
-spawn("Ulquiorra", CFrame.new(100.7954330444336, 61.46331787109375, 40.51166534423828, 1, 0, 0, 0, 1, 0, 0, 0, 1),5)
+spawn("GokuSSJG", CFrame.new(100.7954330444336, 61.46331787109375, 40.51166534423828, 1, 0, 0, 0, 1, 0, 0, 0, 1),5)
 
                 if workspace.UnitFolder:FindFirstChild("Ulquiorra") and workspace.UnitFolder.Ulquiorra:GetAttribute("UpgradeLevel") >= 2 then
 spawn("Gray", CFrame.new(120.38383483886719, 55.58282470703125, 43.427894592285156, 1, 0, 0, 0, 1, 0, 0, 0, 1))
