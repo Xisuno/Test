@@ -75,7 +75,7 @@ spawn("Ulquiorra", CFrame.new(100.7954330444336, 61.46331787109375, 40.511665344
 
                 if workspace.UnitFolder:FindFirstChild("Ulquiorra") and workspace.UnitFolder.Ulquiorra:GetAttribute("UpgradeLevel") >= 2 then
 spawn("Gray", CFrame.new(120.38383483886719, 55.58282470703125, 43.427894592285156, 1, 0, 0, 0, 1, 0, 0, 0, 1))
-spawn("Kokushibo", CFrame.new(113.9775619506836, 55.58282470703125, 41.76774978637695, 1, 0, 0, 0, 1, 0, 0, 0, 1))
+spawn("Kokushibo", CFrame.new(126.21014404296875, 55.58282470703125, 43.43917465209961, 1, 0, 0, 0, 1, 0, 0, 0, 1))
                 end
 
 
