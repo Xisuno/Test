@@ -143,7 +143,7 @@ spawn("GokuSSJG", CFrame.new(30.07181739807129, 3.951678514480591, -730.45886230
 
                 if workspace.UnitFolder:FindFirstChild("GokuSSJG") and workspace.UnitFolder.GokuSSJG:GetAttribute("UpgradeLevel") >= 2 then
 spawn("Kokushibo", CFrame.new(28.962060928344727, 1.526009202003479, -753.997314453125, 1, 0, 0, 0, 1, 0, 0, 0, 1),3)
-spawn("Zeke", CFrame.new(45.12055969238281, 1.526009202003479, -707.2681884765625, 1, 0, 0, 0, 1, 0, 0, 0, 1))
+spawn("Zeke", CFrame.new(27.852867126464844, 3.2436470985412598, -729.5468139648438, 1, 0, 0, 0, 1, 0, 0, 0, 1))
                 end
                 if getWave() >= 15 then
 task.wait(24)
