@@ -142,7 +142,7 @@ spawn("Teiuchi", CFrame.new(17.817543029785156, 1.526009202003479, -689.90905761
 spawn("GokuSSJG", CFrame.new(30.07181739807129, 3.951678514480591, -730.4588623046875, 1, 0, 0, 0, 1, 0, 0, 0, 1),4)
 
                 if workspace.UnitFolder:FindFirstChild("GokuSSJG") and workspace.UnitFolder.GokuSSJG:GetAttribute("UpgradeLevel") >= 2 then
-spawn("Kokushibo", CFrame.new(28.962060928344727, 1.526009202003479, -753.997314453125, 1, 0, 0, 0, 1, 0, 0, 0, 1),3)
+spawn("Gray", CFrame.new(28.962060928344727, 1.526009202003479, -753.997314453125, 1, 0, 0, 0, 1, 0, 0, 0, 1),3)
 spawn("Zeke", CFrame.new(27.852867126464844, 3.2436470985412598, -729.5468139648438, 1, 0, 0, 0, 1, 0, 0, 0, 1))
                 end
                 if getWave() >= 15 then
